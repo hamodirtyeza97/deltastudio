@@ -1,0 +1,17 @@
+jupyter
+jupyterlab
+jupyter-resource-usage
+jupyter_scheduler
+pyspark==3.5.0
+delta-spark==3.2.0
+deltalake==0.20.2
+pydeequ==1.4.0
+duckdb
+pandas
+pyarrow
+grpcio
+grpcio-status
+scikit-learn
+matplotlib
+statsmodels
+plotly

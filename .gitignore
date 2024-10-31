@@ -1,0 +1,6 @@
+/jars
+/lake
+/metastore_db
+/spark-warehouse
+/temp
+/venv
