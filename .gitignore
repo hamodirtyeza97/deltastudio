@@ -1,6 +1,7 @@
-/jars
-/lake
-/metastore_db
-/spark-warehouse
-/temp
-/venv
+jars/
+lake/
+metastore_db/
+spark-warehouse/
+temp/
+venv/
+scripts/.ipynb_checkpoints/
