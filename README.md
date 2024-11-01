@@ -10,7 +10,7 @@
 > - Sharing data with others
 > - And more!
 >
-> If you have any interest or have any question, just ping me with this email: hamodirtyeza97@gmail.com. In the mean while, you can easily create a data platform in your organizations using the above technologies. I will complete this repository with more examples gradually :wave:
+> I will complete this repository with more examples gradually :wave:
 
 
 
