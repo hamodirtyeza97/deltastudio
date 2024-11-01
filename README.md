@@ -2,13 +2,15 @@
 
 > Comming soon! 
 >
-> I am working on an end-to-end data application to simplify working with the above technologies with the following features:
+> I am working on a data application to simplify working with the above technologies with the following features:
 >
 > - Authentication
 > - Authorization
 > - Securely access to sources
 > - Sharing data with others
 > - And more!
+>
+> If you have any interest or have any question, just ping me with this email: hamodirtyeza97@gmail.com
 
 
 
