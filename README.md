@@ -2,4 +2,4 @@
 
 
 
-![](./pics/Screenshot from 2024-11-01 12-40-59.png)
+![](https://github.com/hamodirtyeza97/deltastudio/blob/main/pics/Screenshot%20from%202024-11-01%2012-40-59.png)
