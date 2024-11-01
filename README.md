@@ -1,6 +1,6 @@
 # A show case of how someone can use Delta Lake OSS, PySpark and Spark-SQL, DuckDB, PyDeeque and Metabase to build a notebook-first end-to-end data platform for all use cases.
 
-> Comming soon! 
+> Comming soon! :fire:
 >
 > I am working on a data application to simplify working with the above technologies with the following features:
 >
@@ -10,7 +10,7 @@
 > - Sharing data with others
 > - And more!
 >
-> If you have any interest or have any question, just ping me with this email: hamodirtyeza97@gmail.com
+> If you have any interest or have any question, just ping me with this email: hamodirtyeza97@gmail.com. In the mean while, you can easily create a data platform in your organizations using the above technologies. I will complete this repository with more examples gradually :wave:
 
 
 
