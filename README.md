@@ -1,5 +1,17 @@
 # A show case of how someone can use Delta Lake OSS, PySpark and Spark-SQL, DuckDB, PyDeeque and Metabase to build a notebook-first end-to-end data platform for all use cases.
 
+> Comming soon! 
+>
+> I am working on an end-to-end data application to simplify working with the above technologies with the following features:
+>
+> - Authentication
+> - Authorization
+> - Securely access to sources
+> - Sharing data with others
+> - And more!
+
+
+
 Create beautiful dashboards from your delta tables using the power of DuckDB and Metabase
 
 ![](https://github.com/hamodirtyeza97/deltastudio/blob/main/pics/Screenshot%20from%202024-11-01%2012-40-59.png)
