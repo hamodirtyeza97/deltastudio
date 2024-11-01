@@ -20,7 +20,7 @@ Create beautiful dashboards from your delta tables using the power of DuckDB and
 
 
 
-Create Databases, Tables and Views and persists the metadata (Hive metastore)
+Create Databases, Tables and Views using SQL-like statements (Hive metastore)
 
 ![](https://github.com/hamodirtyeza97/deltastudio/blob/main/pics/Screenshot%20from%202024-10-31%2014-49-57.png)
 
