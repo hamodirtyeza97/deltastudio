@@ -38,6 +38,12 @@ Query delta tables fast using DuckDB delta extension
 
 
 
+Query delta tables using Metabase query builder
+
+![](https://github.com/hamodirtyeza97/deltastudio/blob/main/pics/Screenshot%20from%202024-11-01%2014-01-16.png)
+
+
+
 Perform data quality checks, store the result in a database or control the data flow based on the results
 
 ![](https://github.com/hamodirtyeza97/deltastudio/blob/main/pics/Screenshot%20from%202024-10-31%2015-00-51.png)
